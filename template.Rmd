@@ -23,4 +23,4 @@ length(samp)
 # Section 2
 
 I can take the mean of the sample, too!
-The mean is `r mean(samp)`.
+The mean is `r mean(samp)`. Editing text
